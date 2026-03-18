@@ -75,45 +75,6 @@ const raj = {
 
 ---
 
-## 💼 Experience
-
-<table>
-  <tr>
-    <td>
-      <h3>🏢 Full Stack Web Developer Intern</h3>
-      <strong>Vectrium Ventures</strong> · Rajkot, Gujarat
-      <br/>
-      <code>Feb 2025 – May 2025</code>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>🚀 Built a full-stack automation system using <strong>React.js</strong> & <strong>Node.js</strong> REST APIs — boosted operational efficiency by <strong>15%</strong></li>
-        <li>⚡ Optimized RESTful API integrations & database queries, reducing production costs by <strong>10%</strong></li>
-        <li>📊 Developed real-time maintenance tracking dashboards, cutting equipment downtime by <strong>20%</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🔗 Project | 📝 Description | 🛠️ Stack |
-|---|---|---|
-| **[LinkLite — URL Shortener](https://github.com/rajmroy17)** | Production-ready URL shortener with custom aliases, QR codes, password protection, expiry, and a 30-day analytics dashboard | `React 19` `TypeScript` `Vite` `Tailwind v4` `Node.js` `MongoDB` `Redis` |
-| **[MERN Job Portal](https://github.com/rajmroy17)** | Full-stack recruitment platform with employer postings, candidate applications, resume uploads & real-time status tracking | `React` `Node.js` `Express` `MongoDB` `JWT` `RBAC` |
-
-</div>
-
-> 💡 More projects — including AI/ML research & design-focused web apps — are available on [GitHub](https://github.com/rajmroy17)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -127,15 +88,6 @@ const raj = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajmroy17&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="165"/>
 
 </div>
-
----
-
-## 🎓 Education
-
-**B.E. in Computer Engineering**
-Marwadi University, Rajkot · *Expected May 2026*
-
-📚 Relevant Coursework: Data Structures & Algorithms · DBMS · Web Technologies · Artificial Intelligence · Software Engineering
 
 ---
 
