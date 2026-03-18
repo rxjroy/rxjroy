@@ -20,7 +20,6 @@ const raj = {
   location    : "Jamnagar, Gujarat 🇮🇳",
   education   : "B.E. Computer Engineering @ Marwadi University (2026)",
   focus       : ["MERN Stack", "AI/ML Integration", "NLP", "Product Design"],
-  currentlyOn : "Internship @ Vectrium Ventures · Building automation systems",
   motto       : "Bridge intelligent systems with beautiful user-facing products."
 };
 ```
